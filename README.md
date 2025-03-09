@@ -1,5 +1,3 @@
-# Churn-Prediction-ANN-
-
 # Customer Churn Prediction
 
 Welcome to the **Customer Churn Prediction** application! This project leverages **deep learning** and **machine learning** techniques to predict customer churn based on various financial and behavioral factors. Developed as part of my data science journey, this project showcases AI-driven predictive analytics for business insights.
