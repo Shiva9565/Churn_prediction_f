@@ -4,7 +4,9 @@
 
 Welcome to the **Customer Churn Prediction** application! This project leverages **deep learning** and **machine learning** techniques to predict customer churn based on various financial and behavioral factors. Developed as part of my data science journey, this project showcases AI-driven predictive analytics for business insights.
 
-![Churn Prediction Banner](images/banner.png)
+<img width="859" alt="Screenshot 2025-03-09 at 12 05 31 PM" src="https://github.com/user-attachments/assets/17643bb4-22cf-4df4-b3b0-e3245e5bba35" />
+<img width="886" alt="Screenshot 2025-03-09 at 12 05 40 PM" src="https://github.com/user-attachments/assets/8226dff1-c0e2-40b2-9985-5b8a1acaccd1" />
+
 
 ## ✨ Features
 - **📊 Customer Churn Prediction:** Predicts the probability of customer churn using a trained deep learning model.
@@ -68,13 +70,11 @@ The AI model analyzes key customer attributes like **credit score, age, account 
 
 ## 🌐 Live Demo & Website
 Check out the live application at:
-[Your Website Link](https://yourwebsite.com)
+[Your Website Link](https://churnpredictionshivapro.streamlit.app/)
 
-## 📜 License
-This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Author
-[Your Name](https://github.com/your-username)
+[Your Name](https://github.com/Shiva9565)
 
 ---
 This project is an exciting demonstration of **AI in business intelligence**. Feel free to contribute or improve!
