@@ -70,11 +70,11 @@ The AI model analyzes key customer attributes like **credit score, age, account 
 
 ## 🌐 Live Demo & Website
 Check out the live application at:
-[Your Website Link](https://churnpredictionshivapro.streamlit.app/)
+[Website Link](https://churnpredictionshivapro.streamlit.app/)
 
 
 ## 👨‍💻 Author
-[Your Name](https://github.com/Shiva9565)
+[Shiva](https://github.com/Shiva9565)
 
 ---
 This project is an exciting demonstration of **AI in business intelligence**. Feel free to contribute or improve!
